@@ -1,0 +1,19 @@
+{
+  "name": "first_npm_package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratham8090/first_npm_package.git"
+  },
+  "author": "Pratham Singh Bisht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratham8090/first_npm_package/issues"
+  },
+  "homepage": "https://github.com/pratham8090/first_npm_package#readme"
+}
